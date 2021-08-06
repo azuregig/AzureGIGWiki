@@ -12,7 +12,9 @@ A place to:
 - support specialised disucssions in sub-teams (e.g. working with British National Grid data)
 
 ## How to contribute
+Raise an issue to request group membership if you'd like to join discussions, or you have a repo that you'd like to start within this org, or even an existing one that you'd like to move here. 
 
+Otherwise please hold off until the first public repos within this organisation are available for contribution.
 
 
 <hr />
