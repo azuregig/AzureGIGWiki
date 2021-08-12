@@ -18,6 +18,7 @@ Scope:
 Raise an issue to request group membership if 
 - you'd like to join discussions, 
 - you'd like to start a repo within this org, 
+- you'd like to add content to the [wiki pages](https://github.com/azuregig/AzureGigWiki/wiki)
 - you have an existing repo that you'd like us to fork or to move here. 
 
 Otherwise please hold off until the first public repos within this organisation are available for specific contributions.
