@@ -26,4 +26,4 @@ Otherwise please hold off until the first public repos within this organisation 
 <hr />
 
 #### Disclaimer
-*This github organisation is not affiliated with any real-world organisation, all opinions expressed by organsiation members are those of inidividuals.*
+*This github organisation is not affiliated with any real-world organisation, all opinions expressed by organsiation members are those of individuals.*
