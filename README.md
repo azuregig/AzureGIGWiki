@@ -6,6 +6,7 @@
 
 ## Status 
 🚧 just setting up, collaborators welcome
+- first repo published: ingesting Ordnance Survey data packages with ADF (especially for PSGA member organisations) https://github.com/azuregig/work_with_OrdnanceSurvey_data
 
 ## Intention
 A place to:
